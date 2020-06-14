@@ -1,4 +1,4 @@
-TEXTY - A Text Recognition Android App
+TEXTY - A Text Recognition Android App !!!
 
 
 "Texty" is a light android application that lets you do activities like text recognition and text-to-speech conversion. 
